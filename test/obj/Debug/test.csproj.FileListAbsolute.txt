@@ -1,0 +1,12 @@
+C:\Users\Vender\Google Drive\wk\it.place@simbirsoft\C#\test\test\bin\Debug\test.exe.config
+C:\Users\Vender\Google Drive\wk\it.place@simbirsoft\C#\test\test\bin\Debug\test.exe
+C:\Users\Vender\Google Drive\wk\it.place@simbirsoft\C#\test\test\bin\Debug\test.pdb
+C:\Users\Vender\Google Drive\wk\it.place@simbirsoft\C#\test\test\obj\Debug\test.exe
+C:\Users\Vender\Google Drive\wk\it.place@simbirsoft\C#\test\test\obj\Debug\test.pdb
+C:\Users\Vender\Google Drive\wk\it.place@simbirsoft\C#\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Vender\Documents\GitHub\it.place_c_sharp\test\bin\Debug\test.exe.config
+C:\Users\Vender\Documents\GitHub\it.place_c_sharp\test\obj\Debug\test.exe
+C:\Users\Vender\Documents\GitHub\it.place_c_sharp\test\obj\Debug\test.pdb
+C:\Users\Vender\Documents\GitHub\it.place_c_sharp\test\bin\Debug\test.exe
+C:\Users\Vender\Documents\GitHub\it.place_c_sharp\test\bin\Debug\test.pdb
+C:\Users\Vender\Documents\GitHub\it.place_c_sharp\test\obj\Debug\test.csprojResolveAssemblyReference.cache
